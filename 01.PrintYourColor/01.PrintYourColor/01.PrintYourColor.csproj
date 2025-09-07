@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BB555628-201D-40A8-9858-ADC360CB1EB4}</ProjectGuid>
+    <ProjectGuid>{8D66A336-D8C0-4FD4-ADBF-F3012FBB3137}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_01.PrintYourColor</RootNamespace>
     <AssemblyName>01.PrintYourColor</AssemblyName>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="PrintYourColor.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

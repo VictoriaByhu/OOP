@@ -1,7 +1,0 @@
-C:\Users\user\Desktop\OOP\lab 1\01.PrintYourColor\01.PrintYourColor\bin\Debug\01.PrintYourColor.exe.config
-C:\Users\user\Desktop\OOP\lab 1\01.PrintYourColor\01.PrintYourColor\bin\Debug\01.PrintYourColor.exe
-C:\Users\user\Desktop\OOP\lab 1\01.PrintYourColor\01.PrintYourColor\bin\Debug\01.PrintYourColor.pdb
-C:\Users\user\Desktop\OOP\lab 1\01.PrintYourColor\01.PrintYourColor\obj\Debug\01.PrintYourColor.csproj.AssemblyReference.cache
-C:\Users\user\Desktop\OOP\lab 1\01.PrintYourColor\01.PrintYourColor\obj\Debug\01.PrintYourColor.csproj.CoreCompileInputs.cache
-C:\Users\user\Desktop\OOP\lab 1\01.PrintYourColor\01.PrintYourColor\obj\Debug\01.PrintYourColor.exe
-C:\Users\user\Desktop\OOP\lab 1\01.PrintYourColor\01.PrintYourColor\obj\Debug\01.PrintYourColor.pdb
