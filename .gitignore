@@ -1,0 +1,28 @@
+## Ignore Visual Studio temporary files, build results, and cache
+.vs/
+bin/
+obj/
+Debug/
+Release/
+*.user
+*.suo
+*.cache
+*.log
+*.db
+*.pdb
+*.tmp
+*.bak
+
+## Ignore NuGet packages
+*.nupkg
+packages/
+
+## Ignore Rider & Resharper settings
+.idea/
+*.DotSettings.user
+
+## Ignore test results
+TestResults/
+
+## Ignore local configs
+appsettings.Development.json
