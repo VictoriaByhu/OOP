@@ -9,10 +9,22 @@ class CalculateFactorial
         int n = int.Parse(Console.ReadLine());
         int factorial = 1;
 
-        for (int i = 2; i <= n; i++)
+        if (n == 0)
         {
-            factorial *= i;
+            factorial = 1;
         }
+        else if (n == 1)
+        {
+            factorial = 1;
+        }
+        else
+        {
+            for (int i = 2; i <= n; i++)
+            {
+                factorial *= i;
+            }
+        }
+            
 
         Console.WriteLine("Factorial of n is: " + factorial);
     }
