@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_07.MaxAscendingSequence", "02_07.MaxAscendingSequence\02_07.MaxAscendingSequence.csproj", "{404ACBE5-3F12-4667-A678-DFA3D2DD17C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{404ACBE5-3F12-4667-A678-DFA3D2DD17C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{404ACBE5-3F12-4667-A678-DFA3D2DD17C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{404ACBE5-3F12-4667-A678-DFA3D2DD17C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{404ACBE5-3F12-4667-A678-DFA3D2DD17C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FDA6382-D259-4965-ACFD-02E54A2AA3E4}
+	EndGlobalSection
+EndGlobal
